@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/mask-lights-removed.glb"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "model/gltf-binary"
